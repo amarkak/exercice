@@ -1,1 +1,3 @@
 C'est le premier fichier demandé pour l'exercice
+
+Je rajoute cette phrase avant d'effectuer mon troisième commit.
